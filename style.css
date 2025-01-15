@@ -1,0 +1,15 @@
+.container{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+.title{
+    display:grid;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+p{
+    font-size: xx-large;
+    font-weight: bolder;
+}
